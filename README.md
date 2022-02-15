@@ -1,16 +1,28 @@
-### Hi there 👋
-
-<!--
-**Cvaniak/Cvaniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       ___________________________________________________
+      /                       |_O_|                       \
+     |     _____________________________________________   |
+     |   |                                             |   |
+     |   | Cvaniak@Ubuntu:~$ cat about_me.txt          |   |
+     |   |                                             |   |
+     |   | This is my digital place to store ideas.    |   |
+     |   |                                             |   |
+     |   | I love to create little projects that brings|   |
+     |   |   me happines with every line of code.      |   |
+     |   |                                             |   |
+     |   | At work there is need for easy to read,     |   |
+     |   |   clean and maintainable code.              |   |
+     |   |                                             |   |
+     |   | So here is my place to go crazy with ideas, |   |
+     |   |   write fast prove of concepts and projects |   |
+     |   |   that I want more to have done than to     |   |
+     |   |   make them "perfect".                      |   |
+     |   |_____________________________________________|   |
+     |                    MegaHard Plane                   |
+      \___________________________________________________/
+             \_____________________________________/
+            
+          . - - - - - - - - - - - - - - - - - - - - - .
+        .   .   .   .   .  .  .  .  .  .   .   .   .   .   
+      .    .   .   .   .   .  .  .  .   .   .   .    .   .
+    .     .   .   .    .   .  .  .  .   .    .   .    .    .
+    - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
