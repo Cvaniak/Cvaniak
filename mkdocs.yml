@@ -1,0 +1,72 @@
+site_name: Cvaniak Writes Web Log
+site_author: Cvaniak
+
+repo_url: https://github.com/Cvaniak
+repo_name: Cvaniak
+
+
+theme:
+  features:
+  #   - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.tracking
+    - navigation.instant
+    - navigation.instant.progress
+    # - navigation.top
+
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.tabs.link
+    # - content.tooltips
+    # - header.autohide
+  font:
+    text: Roboto Mono
+
+  icon:
+    # Repo Icon
+    repo: fontawesome/brands/github
+
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: dark)"
+      primary: green
+      accent: light green
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: light)"
+      primary: black
+      accent: light green
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+plugins:
+  - blog:
+      blog_dir: .
+      authors_profiles: true
+      categories_allowed:
+        - Python
+        - Cpp
+        - Dev
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+
+# nav:
+#   - ./index.md
